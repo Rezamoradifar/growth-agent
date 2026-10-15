@@ -1,0 +1,9 @@
+{
+  "name": "My Project",
+  "offer": "a high-value digital product",
+  "audience": "qualified buyers and partners",
+  "goal": "qualified_customers",
+  "regions": ["global"],
+  "languages": ["en", "fa", "ar", "tr", "es", "ru"],
+  "channels": ["instagram", "x", "telegram", "seo", "email"]
+}
